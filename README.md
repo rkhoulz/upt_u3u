@@ -7,7 +7,7 @@
 ## 📸 Vista Previa del Sistema
 
 ### Pantalla de Inicio de Sesión
-![Login de Acceso](img/image_338467.jpg)
+![Login de Acceso](img/image_338467.png)
 
 ### Panel Principal (Dashboard de Telemetría)
 ![Dashboard del Sistema](img/image_33842d.png)
