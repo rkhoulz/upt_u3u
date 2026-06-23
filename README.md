@@ -7,10 +7,10 @@
 ## 📸 Vista Previa del Sistema
 
 ### Pantalla de Inicio de Sesión
-![Login de Acceso](image_338467.jpg)
+![Login de Acceso](img/image_338467.jpg)
 
 ### Panel Principal (Dashboard de Telemetría)
-![Dashboard del Sistema](image_33842d.png)
+![Dashboard del Sistema](img/image_33842d.png)
 
 ---
 
@@ -32,8 +32,7 @@ A través de una aplicación móvil, el personal técnico puede escanear los act
 El ecosistema se divide en un núcleo de gestión web centralizado (**Backend/API**) y la interfaz móvil de inmersión (**Módulo de RA**):
 
 ### Estructura de Archivos del Servidor Central (PHP/MySQL)
-![Código Fuente en VS Code](image_3384a2.png)
-
+![Código Fuente en VS Code](img/image_3384a2.png)
 UPT_U3U/
 │
 ├── css/
